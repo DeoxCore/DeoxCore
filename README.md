@@ -4,6 +4,15 @@
 
 ### 💫 Welcome to my Digital Universe
 
+<!-- Video Banner -->
+<div align="center">
+  <a href="https://youtu.be/-nPBxBcmuzA?si=-ssi1wZlXrkZjX6v" target="_blank">
+    <img src="https://img.youtube.com/vi/-nPBxBcmuzA/maxresdefault.jpg" width="100%" alt="Profile Video" style="border-radius: 10px;"/>
+  </a>
+</div>
+
+<br>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
@@ -318,11 +327,11 @@ const deox = {
 <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
 </a>
 
-<a href="https://instagram.com/yourhandle" target="_blank">
+<a href="https://www.instagram.com/deoxcore" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://discord.gg/yourinvite" target="_blank">
+<a href="https://discord.com/users/1543655613102563489" target="_blank">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
