@@ -4,11 +4,9 @@
 
 ### 💫 Welcome to my Digital Universe
 
-<!-- Video Banner -->
+<!-- Animated Video Banner -->
 <div align="center">
-  <a href="https://youtu.be/-nPBxBcmuzA?si=-ssi1wZlXrkZjX6v" target="_blank">
-    <img src="https://img.youtube.com/vi/-nPBxBcmuzA/maxresdefault.jpg" width="100%" alt="Profile Video" style="border-radius: 10px;"/>
-  </a>
+  <img src="https://github.com/DeoxCore/DeoxCore/blob/main/youtube-gif-9951f4ad-9a57-4ff7-af92-5425b80c04f8.gif?raw=true" width="100%" alt="Profile Banner Animation"/>
 </div>
 
 <br>
